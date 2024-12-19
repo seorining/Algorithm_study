@@ -1,6 +1,6 @@
 # Algorithm_study
 
 Hi We are babos
-Kim Nayoung
+Kim Na young
 Kim Heechan
 Ha Beonsoo
